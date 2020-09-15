@@ -1,4 +1,4 @@
-import { AnyAction, Action } from "redux";
+import { Action } from "redux";
 import { RootState } from "./store";
 
 interface RecorderState {
